@@ -59,8 +59,9 @@
   
 }
 /* не работает */
-.p1{
+.lefttext{
     color: #DB450E;
+    text-decoration: underline;
 }
 
 .middle{
