@@ -1,0 +1,149 @@
+/* Бэкграунд */
+.stranica{
+    background:#9A0909;
+}
+/* Хедер */
+.title{
+    display:flex;
+    justify-content:center;
+}
+.titlephoto{
+    width:50vw;
+}
+/* MAin */
+/* Header - это расположение фоток вместе с текстом */
+.header{
+    display: flex;
+    justify-content:space-around;
+    background-color: black;
+    padding: 0px;
+    color: white; 
+    padding-top: 20px;
+    padding-bottom: 10px;
+    
+}
+/* divphoto -внутринность каждого фото */
+.divphoto{
+    text-align: center;
+    padding-bottom: 0px;
+    
+
+   
+}
+.podfoto{
+ display: flex;
+ justify-content: center;
+   
+}
+.photo1{
+    width:20vw;
+    justify-content:center;
+}
+/* Блок Section */
+.sect{
+ display: flex;
+ justify-content: space-around;
+}
+/* блок навигации слева */
+.left{
+   display: flex;  
+}
+.ulelement{
+    display:flex;
+    flex-direction:column;
+  background:#7D0909;
+  width: 200px; 
+  padding: inherit;
+  margin-top: 1px;
+  
+  
+}
+/* не работает */
+.p1{
+    color: #DB450E;
+}
+
+.middle{
+    display: flex;
+    color: white;
+    align-items: center;
+
+}
+.right{
+    display: flex;
+    flex-direction: column;
+    text-align: start;
+    background:#E3DDDD ;
+    margin-bottom: 15px;
+    
+
+    
+}
+.ul2{
+    margin: 0px;
+    margin-left: 0px;
+    width: 200px;
+    text-align: start;
+    padding: 0;
+    margin-top: 0px;
+    
+}
+
+.titl{
+    text-align: center;
+    margin-top: 0px;
+    background: #BDBDBD; /* Цвет фона */
+    color: black; /* Цвет текста */
+    
+    border-width: 3px;
+    
+}
+
+.footer{
+    background-color:#E95B11 ;
+      
+    border: 6px;
+    background-color:#E95B11;
+}
+.borderline{
+    background-color: #b8b6b6;
+    height: 1px; 
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: -10px;
+}
+.textbelow{
+    display: flex;
+    justify-content: center;
+    flex-direction:row-reverse;
+    align-items: center;
+    
+    border: 4px;
+    background-color:#E95B11;
+    word-spacing: 20px;
+    height: 20px;
+}
+.rightword{
+    padding-left: 7px;
+}
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
